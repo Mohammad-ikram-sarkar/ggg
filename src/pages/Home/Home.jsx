@@ -9,6 +9,7 @@ export default function Home() {
 
   return (
     <div>
+      
       <Bener />
 
       <Lawyercard data={data}></Lawyercard>

@@ -1,0 +1,102 @@
+[
+    {
+      "question": "What is useState?",
+      "answer": "useState is a Hook in React that lets you add state variables to functional components.",
+      "added_at": "2024-3-8"
+    },
+    {
+      "question": "What is useEffect?",
+      "answer": "useEffect is a Hook that lets you perform side effects in function components, like fetching data or subscribing to events.",
+      "added_at": "2024-3-9"
+    },
+    {
+      "question": "What is JSX?",
+      "answer": "JSX is a syntax extension for JavaScript that looks similar to XML or HTML and is used with React to describe UI.",
+      "added_at": "2024-3-10"
+    },
+    {
+      "question": "What is a component in React?",
+      "answer": "A component is a reusable piece of UI built with a function or class in React.",
+      "added_at": "2024-3-11"
+    },
+    {
+      "question": "What is a prop in React?",
+      "answer": "Props are inputs passed into components to configure or customize them.",
+      "added_at": "2024-3-12"
+    },
+    {
+      "question": "What is state in React?",
+      "answer": "State is a built-in object that stores property values that belong to a component and can change over time.",
+      "added_at": "2024-3-13"
+    },
+    {
+      "question": "What is a virtual DOM?",
+      "answer": "Virtual DOM is a lightweight representation of the actual DOM that React uses to optimize updates.",
+      "added_at": "2024-3-14"
+    },
+    {
+      "question": "What is React Router?",
+      "answer": "React Router is a standard library for routing in React applications.",
+      "added_at": "2024-3-15"
+    },
+    {
+      "question": "What is Redux?",
+      "answer": "Redux is a state management library often used with React for managing application state in a predictable way.",
+      "added_at": "2024-3-16"
+    },
+    {
+      "question": "What is a Hook in React?",
+      "answer": "Hooks are functions that let you use state and other React features without writing a class.",
+      "added_at": "2024-3-17"
+    },
+    {
+      "question": "What is a controlled component?",
+      "answer": "A controlled component is one where form data is handled by a React component.",
+      "added_at": "2024-3-18"
+    },
+    {
+      "question": "What is an uncontrolled component?",
+      "answer": "An uncontrolled component is a form component that stores its own state internally.",
+      "added_at": "2024-3-19"
+    },
+    {
+      "question": "What is the difference between state and props?",
+      "answer": "Props are used to pass data to components, while state is used to manage data internally within a component.",
+      "added_at": "2024-3-20"
+    },
+    {
+      "question": "What is useRef?",
+      "answer": "useRef is a Hook that lets you persist values between renders without causing re-renders.",
+      "added_at": "2024-3-21"
+    },
+    {
+      "question": "What is context in React?",
+      "answer": "Context provides a way to share values like themes or user info across components without prop drilling.",
+      "added_at": "2024-3-22"
+    },
+    {
+      "question": "What is lifting state up?",
+      "answer": "Lifting state up is the process of moving state to a common ancestor of components that need to share it.",
+      "added_at": "2024-3-23"
+    },
+    {
+      "question": "What is useMemo?",
+      "answer": "useMemo is a Hook that memoizes the result of a calculation to avoid unnecessary re-computations.",
+      "added_at": "2024-3-24"
+    },
+    {
+      "question": "What is useCallback?",
+      "answer": "useCallback is a Hook that returns a memoized version of a function to avoid unnecessary re-renders.",
+      "added_at": "2024-3-25"
+    },
+    {
+      "question": "What is React.Fragment?",
+      "answer": "React.Fragment lets you group multiple elements without adding an extra node to the DOM.",
+      "added_at": "2024-3-26"
+    },
+    {
+      "question": "What is reconciliation in React?",
+      "answer": "Reconciliation is the process React uses to update the DOM by comparing the new and previous virtual DOM trees.",
+      "added_at": "2024-3-27"
+    }
+  ]
