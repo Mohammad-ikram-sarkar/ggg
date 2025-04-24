@@ -1,0 +1,126 @@
+
+
+
+     [
+      {
+        "id": 1,
+        "name": "Awlad Hossain",
+        "specialization": "Criminal Expert",
+        "experience": "5+ Years",
+        "license": "BD12451254",
+        "availability": ["Sunday", "Monday", "Thursday"],
+        "fee": 4273,
+        "img": "https://i.ibb.co.com/WNSmcKXz/Chat-GPT-Image-Apr-22-2025-08-26-32-PM.png"
+      },
+      {
+        "id":2,
+        "name": "Farzana Ahmed",
+        "specialization": "Cybersecurity Specialist",
+        "experience": "7 Years",
+        "license": "BD65234122",
+        "availability": ["Monday", "Tuesday"],
+        "fee": 4020,
+        "img": "https://i.ibb.co.com/x81SXjp1/Chat-GPT-Image-Apr-22-2025-08-32-13-PM.png"
+      },
+      {
+        "id": 3,
+        "name": "Jamal Uddin",
+        "specialization": "Family Lawyer",
+        "experience": "4+ Years",
+        "license": "BD99881234",
+        "availability": ["Wednesday", "Thursday"],
+        "fee": 4250,
+        "img": "https://i.ibb.co.com/5gWD06WF/raw.png"
+      },
+      {
+        "id": 4,
+        "name": "Nasrin Jahan",
+        "specialization": "Tax Consultant",
+        "experience": "6 Years",
+        "license": "BD43215678",
+        "availability": ["Sunday", "Friday"],
+        "fee": 4295,
+        "img": "https://iili.io/3Glp8Nt.png"
+      },
+      {
+        "id": 5,
+        "name": "Tariq Hasan",
+        "specialization": "Civil Lawyer",
+        "experience": "3 Years",
+        "license": "BD78945612",
+        "availability": ["Saturday", "Tuesday"],
+        "fee": 4220,
+        "img": "https://i.ibb.co.com/bM0xLCYj/download.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Shamima Nasreen",
+        "specialization": "Corporate Advisor",
+        "experience": "10 Years",
+        "license": "BD31425678",
+        "availability": ["Monday", "Wednesday", "Friday"],
+        "fee": 4400,
+        "img": "https://i.ibb.co.com/XfmC93WW/2bb4ea66-a640-42e4-a658-5ff02fcc6028.png"
+      },
+      {
+        "id": 7,
+        "name": "Rashed Khan",
+        "specialization": "Criminal Expert",
+        "experience": "8+ Years",
+        "license": "BD99887766",
+        "availability": ["Thursday", "Saturday"],
+        "fee": 4350,
+        "img": "https://i.ibb.co.com/vxfsFKbb/Chat-GPT-Image-Apr-22-2025-08-29-51-PM.png"
+      },
+      {
+        "id": 8,
+        "name": "Mehnaz Rahman",
+        "specialization": "Immigration Lawyer",
+        "experience": "9 Years",
+        "license": "BD55667788",
+        "availability": ["Sunday", "Tuesday"],
+        "fee": 4310,
+        "img": "https://i.ibb.co.com/qMpLmHKW/7a8c5665-7152-4ba0-8fb0-8b0ecd6d895b.png"
+      },
+      {
+        "id": 9,
+        "name": "Imran Hossain",
+        "specialization": "Employment Law Specialist",
+        "experience": "2+ Years",
+        "license": "BD44332211",
+        "availability": ["Wednesday", "Saturday"],
+        "fee": 4200,
+        "img": "https://i.ibb.co.com/5g2frZjC/A-lawyer-captured-in-a-long-exposure-photograph-with-gentle-soft-light-Diffused-shadows-and-subtle-i.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Lamia Chowdhury",
+        "specialization": "Constitutional Law Expert",
+        "experience": "6+ Years",
+        "license": "BD12344321",
+        "availability": ["Monday", "Thursday"],
+        "fee": 4285,
+        "img": "https://iili.io/3G0Ilg2.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Nayeem Islam",
+        "specialization": "Intellectual Property Lawyer",
+        "experience": "5+ Years",
+        "license": "BD76543210",
+        "availability": ["Tuesday", "Friday"],
+        "fee": 4330,
+        "img": "https://i.ibb.co.com/HDT6DSkY/A-lawyer-portrait-strong-hard-light-rich-burgundy-and-deep-blue-sophisticated-and-elegant-direct-har.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Sabina Akter",
+        "specialization": "Environmental Lawyer",
+        "experience": "4+ Years",
+        "license": "BD11223344",
+        "availability": ["Monday", "Wednesday", "Friday"],
+        "fee": 260,
+        "img": "https://iili.io/3G0n1tf.jpg"
+      }
+    ]
+  
