@@ -1,20 +1,18 @@
-import React, { Suspense } from 'react'
-import Lawyercard from './lawyercard';
+import React, { Suspense } from "react";
+import Lawyercard from "./lawyercard";
 
-import Bener from './Bener'
-import { useLoaderData } from 'react-router'
-import Couner from './Couner';
+import Bener from "./Bener";
+import { useLoaderData } from "react-router-dom";
+import Couner from "./Couner";
 export default function Home() {
   const data = useLoaderData();
 
   return (
     <div>
+      <Bener />
 
-      <Bener/> 
-      
-     <Lawyercard data={data}></Lawyercard>
-     <Couner></Couner>
+      <Lawyercard data={data}></Lawyercard>
+      <Couner></Couner>
     </div>
-  )
-
+  );
 }

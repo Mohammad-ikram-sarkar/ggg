@@ -1,12 +1,12 @@
-import React, { Suspense, useState } from 'react';
-import { Link } from 'react-router';
-import { AiOutlineTrademarkCircle } from 'react-icons/ai';
+import React, { Suspense, useState } from "react";
+import { Link } from "react-router";
+import { AiOutlineTrademarkCircle } from "react-icons/ai";
 
 const LawyerCard = ({ data }) => {
   // Initial number of items to show
   const INITIAL_COUNT = 6;
   const [visibleCount, setVisibleCount] = useState(INITIAL_COUNT);
-  
+
   // Determine which lawyers to display
   const visibleLawyers = data.slice(0, visibleCount);
   const isAllVisible = visibleCount >= data.length;
@@ -18,11 +18,6 @@ const LawyerCard = ({ data }) => {
 
   return (
     <>
-    
-
-
-
-
       <div className="grid grid-cols-2  mx-auto  gap-2 pt-[100px] pb-[10px] px-[160px]">
         {visibleLawyers.map((lawyer) => (
           <div
@@ -45,18 +40,18 @@ const LawyerCard = ({ data }) => {
                   Available
                 </button>
                 <button className="px-[20px] py-[5px] bg-blue-200 text-[#176AE5] rounded-2xl">
-                  {lawyer.experience || '5+ Years Experience'} Experience
+                  {lawyer.experience || "5+ Years Experience"} Experience
                 </button>
               </div>
               <h1 className="text-xl font-semibold">{lawyer.name}</h1>
               <p className="text-gray-600 text-[18px] font-medium">
-                {lawyer.specialization || 'Criminal Expert'}
+                {lawyer.specialization || "Criminal Expert"}
               </p>
               <h1 className="flex items-center  text-sm text-gray-600 text-[16px] font-medium">
                 <AiOutlineTrademarkCircle className="" />
                 <span>License No: {lawyer.license}</span>
               </h1>
-              <Link to={`/lawyer/${lawyer.id}`}>  
+              <Link to={`/lawyer/${lawyer.id}`}>
                 <button className="mt-4 w-full text-[#176AE5] border border-[#176AE5] rounded py-[5px]">
                   View Details
                 </button>
@@ -77,7 +72,6 @@ const LawyerCard = ({ data }) => {
           </button>
         </div>
       )}
-   
     </>
   );
 };
